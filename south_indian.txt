@@ -1,0 +1,59 @@
+RESTAURANT ARE :						CUISINES ARE :
+(1) MANCHOW							(1)  North Indian
+(2) ORCHID HOUSE						(2) South indian
+(3) RIVER STONE COTTAGE						(3) Chinese corner
+(4) WALK IN WOODS						(4) Italian
+
+                                    	(1) MANCHOW
+
+
+
+                                  (2) South indian					UNIQUE KEYS
+
+                 1)Plain Dosa                          RS 50/- 				  106
+                 2)Masala Dosa                         RS 90/-				  107
+                 3)Paneer Dosa                         RS 110/-				  108
+                 4)Idli Sambhar (2pcs)                 RS 50/-				  109
+                 5)Onion Uttappam                      RS 130/-				  110
+
+
+
+                                         (2) ORCHID HOUSE
+
+
+
+                                  (2) South indian
+
+                 1)Onion Masala Uttappam                RS 150/-		    	  126
+                 2)Idli Sambhar (2pcs)                  RS 70/-				  127
+                 3)Paneer Masala Dosa                   RS 150/-			  128
+                 4)Rawa Dosa                            RS 120/-			  129
+                 5)Plain Dosa                           RS 70/-				  130
+
+
+
+                                           (3) RIVER STONE COTTAGE
+
+
+
+                                 (2) South indian
+
+                 1)Paneer Masala Dosa                   RS 110/-			  146
+                 2)Plain Dosa                           RS 50/-				  147
+                 3)Onion Masala Dosa                    RS 90/-				  148
+                 4)Veg Onion Uttapaam                   RS 130/-			  149
+                 5)Idli Sambhar (2pcs)                  RS 50/-				  150
+
+
+
+                                           (4) WALK IN WOODS
+
+
+
+                                 (2) South indian
+
+                 1)Paper Dosa                           RS 180/-			  166
+                 2)Veg Uttappaam                        RS 160/-			  167
+                 3)Plain Dosa                           RS 50/-				  168
+                 4)Idli Sambhar (2pcs)                  RS 60/-				  169
+                 5)Onion Paneer Dosa                    RS 150/-			  170

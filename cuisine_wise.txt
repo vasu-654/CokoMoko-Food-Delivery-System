@@ -1,0 +1,227 @@
+RESTAURANT ARE :						CUISINES ARE :
+(1) MANCHOW							(1)  North Indian
+(2) ORCHID HOUSE						(2) South indian
+(3) RIVER STONE COTTAGE						(3) Chinese corner
+(4) WALK IN WOODS						(4) Italian
+
+
+
+                                      (1)   MANCHOW 
+
+
+                                 (1)  North Indian					UNIQUE KEYS
+
+                 1)Veg Rice                            RS 150/-				  101
+                 2)Dal Fry                             RS 210/-				  102
+                 3)Tanduri Roti (2pcs)                 RS 40/- 				  103
+                 4)Crisp Kachori(2pcs)                 RS 50/- 				  104
+                 5)Butter nan  (2pcs)                  RS 30/- 				  105
+
+
+
+
+                                          (2) ORCHID HOUSE
+
+
+
+                                  (1)  North Indian
+
+                 1)Makkahn Nan  (2pcs)                  RS 40/-				  121
+                 2)Aloo Kachori(2pcs)                   RS 60/-				  122
+                 3)Tanduri Roti (2pcs)                  RS 70/-				  123
+                 4)Mix Veg Dal                          RS 320/-			  124
+                 5)Veg Pulao                            RS 160/-			  125
+
+
+
+                                            (3) RIVER STONE COTTAGE
+
+
+
+                                 (1)  North Indian
+
+                 1)Rumali Roti (2pcs)                   RS 40/-				  141
+                 2)Veg Tadka Rice                       RS 150/-			  142
+                 3)Dal makhni                           RS 210/-			  143
+                 4)Tawa roti (2pcs)                     RS 30/-				  144
+                 5)Shahi Kachori(2pcs)                  RS 50/-				  145
+
+
+
+                                              (4)  WALK IN WOODS
+
+
+
+                                 (1)  North Indian
+
+                 1)Mix Dal                              RS 310/-			  161
+                 2)Tandoori Nan  (2pcs)                 RS 50/-				  162
+                 3)Veg Basmati Rice                     RS 190/-			  163
+                 4)fried Kachori(2pcs)                  RS 70/-				  164
+                 5)Tawa Roti (2pcs)                     RS 60/-				  165
+
+
+
+                                    	(1) MANCHOW
+
+
+
+                                  (2) South indian					
+
+                 1)Plain Dosa                          RS 50/- 				  106
+                 2)Masala Dosa                         RS 90/-				  107
+                 3)Paneer Dosa                         RS 110/-				  108
+                 4)Idli Sambhar (2pcs)                 RS 50/-				  109
+                 5)Onion Uttappam                      RS 130/-				  110
+
+
+
+                                         (2) ORCHID HOUSE
+
+
+
+                                  (2) South indian
+
+                 1)Onion Masala Uttappam                RS 150/-		    	  126
+                 2)Idli Sambhar (2pcs)                  RS 70/-				  127
+                 3)Paneer Masala Dosa                   RS 150/-			  128
+                 4)Rawa Dosa                            RS 120/-			  129
+                 5)Plain Dosa                           RS 70/-				  130
+
+
+
+                                           (3) RIVER STONE COTTAGE
+
+
+
+                                 (2) South indian
+
+                 1)Paneer Masala Dosa                   RS 110/-			  146
+                 2)Plain Dosa                           RS 50/-				  147
+                 3)Onion Masala Dosa                    RS 90/-				  148
+                 4)Veg Onion Uttapaam                   RS 130/-			  149
+                 5)Idli Sambhar (2pcs)                  RS 50/-				  150
+
+
+
+                                           (4) WALK IN WOODS
+
+
+
+                                 (2) South indian
+
+                 1)Paper Dosa                           RS 180/-			  166
+                 2)Veg Uttappaam                        RS 160/-			  167
+                 3)Plain Dosa                           RS 50/-				  168
+                 4)Idli Sambhar (2pcs)                  RS 60/-				  169
+                 5)Onion Paneer Dosa                    RS 150/-			  170
+
+
+
+                                           (1) MANCHOW
+
+
+
+                                 (3) Chinese corner					
+
+                 1)Veg Chowmien                        RS 120/-				  111
+                 2)Singapuri Chowmien                  RS 140/-				  112
+                 3)Veg Momos                           RS 80/-				  113
+                 4)Spring Roll                         RS 90/-				  114
+                 5)Veg Manchurian                      RS 140/-				  115
+
+
+                                             (2) ORCHID HOUSE
+
+
+
+                                 (3) Chinese corner
+
+                 1)Mix Veg Manchurian                   RS 130/-			  131
+                 2)Veg Spring Roll                      RS 100/-			  132
+                 3)Veg Paneer Momos                     RS 90/-				  133
+                 4)Hakka Noodles                        RS 150/-			  134
+                 5)Cheese Chowmien                      RS 140/-			  135
+
+
+
+                                              (3) RIVER STONE COTTAGE
+
+
+
+                                 (3) Chinese corner
+
+                 1)Fried Momos                          RS 80/-				  151
+                 2)Veg Noodles                          RS 120/-			  152
+                 3)Singapuri Noodles                    RS 140/-			  153
+                 4)Special Manchurian                   RS 140/-			  154
+                 5)Veg Spring Roll                      RS 90/-				  155
+
+
+
+
+                                              (4) WALK IN WOODS
+
+
+
+                                 (3) Chinese corner
+
+                 1)Mix Veg Noodles                      RS 120/-			  171
+                 2)Chinese Special Manchurian           RS 100/-			  172
+                 3)Chilly Potato                        RS 110/-			  173
+                 4)Fried Spring Roll                    RS 120/-			  174
+                 5)Veg Kingdom Momos                    RS 100/-			  175
+
+
+
+
+                                         (1) MANCHOW
+
+
+
+                                 (4)  Italian						
+
+                 1)Red Sauce Pasta                     RS 130/-				  116
+                 2)White Sauce Pasta                   RS 150/-				  117
+                 3)Lasagna                             RS 310/-				  118
+                 4)Manchow Special Pizza               RS 310/-				  119
+                 5)Continental Soup                    RS 230/-				  120
+
+
+                                           (2) ORCHID HOUSE
+
+
+
+                                 (4)  Italian
+
+                 1)Continental Soup                     RS 310/-			  136
+                 2)Orchid Special Pizza                 RS 510/-			  137
+                 3)Veg Lasagna                          RS 350/-			  138
+                 4)Cheeze Pasta                         RS 180/-			  139
+                 5)Veg Soup                             RS 160/-			  140
+
+
+
+                                            (3) RIVER STONE COTTAGE
+
+
+
+                 1)Manchurian Soup                      RS 300/-			  156
+                 2)Italian Special Pasta                RS 130/-			  157
+                 3)White Sauce Pasta                    RS 150/-			  158
+                 4)Tomato Soup                          RS 230/-			  159
+                 5)Mix Veg Pizza                        RS 310/-			  160
+
+
+
+                                            (4) WALK IN WOODS
+
+
+
+                                 (4)  Italian
+
+                 1)White Sauce Pasta                    RS 150/-			  176
+                 2)Lnug Fung Soup                       RS 200/-			  177
+                 3)Tomato Pasta                         RS 100/-			  178
+                 4)Onion Pizza                          RS 280/-			  179
+                 5)Penne Alfrendo Pasta                 RS 220/-			  180

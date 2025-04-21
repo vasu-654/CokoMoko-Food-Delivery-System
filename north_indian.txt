@@ -1,0 +1,61 @@
+RESTAURANT ARE :						CUISINES ARE :
+(1) MANCHOW							(1)  North Indian
+(2) ORCHID HOUSE						(2) South indian
+(3) RIVER STONE COTTAGE						(3) Chinese corner
+(4) WALK IN WOODS						(4) Italian
+
+
+
+                                      (1)   MANCHOW 
+
+
+                                 (1)  North Indian					UNIQUE KEYS
+
+                 1)Veg Rice                            RS 150/-				  101
+                 2)Dal Fry                             RS 210/-				  102
+                 3)Tanduri Roti (2pcs)                 RS 40/- 				  103
+                 4)Crisp Kachori(2pcs)                 RS 50/- 				  104
+                 5)Butter nan  (2pcs)                  RS 30/- 				  105
+
+
+
+
+                                          (2) ORCHID HOUSE
+
+
+
+                                  (1)  North Indian
+
+                 1)Makkahn Nan  (2pcs)                  RS 40/-				  121
+                 2)Aloo Kachori(2pcs)                   RS 60/-				  122
+                 3)Tanduri Roti (2pcs)                  RS 70/-				  123
+                 4)Mix Veg Dal                          RS 320/-			  124
+                 5)Veg Pulao                            RS 160/-			  125
+
+
+
+                                            (3) RIVER STONE COTTAGE
+
+
+
+                                 (1)  North Indian
+
+                 1)Rumali Roti (2pcs)                   RS 40/-				  141
+                 2)Veg Tadka Rice                       RS 150/-			  142
+                 3)Dal makhni                           RS 210/-			  143
+                 4)Tawa roti (2pcs)                     RS 30/-				  144
+                 5)Shahi Kachori(2pcs)                  RS 50/-				  145
+
+
+
+                                              (4)  WALK IN WOODS
+
+
+
+                                 (1)  North Indian
+
+                 1)Mix Dal                              RS 310/-			  161
+                 2)Tandoori Nan  (2pcs)                 RS 50/-				  162
+                 3)Veg Basmati Rice                     RS 190/-			  163
+                 4)fried Kachori(2pcs)                  RS 70/-				  164
+                 5)Tawa Roti (2pcs)                     RS 60/-				  165

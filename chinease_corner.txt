@@ -1,0 +1,60 @@
+RESTAURANT ARE :						CUISINES ARE :
+(1) MANCHOW							(1)  North Indian
+(2) ORCHID HOUSE						(2) South indian
+(3) RIVER STONE COTTAGE						(3) Chinese corner
+(4) WALK IN WOODS						(4) Italian
+
+                                           (1) MANCHOW
+
+
+
+                                 (3) Chinese corner					UNIQUE KEYS
+
+                 1)Veg Chowmien                        RS 120/-				  111
+                 2)Singapuri Chowmien                  RS 140/-				  112
+                 3)Veg Momos                           RS 80/-				  113
+                 4)Spring Roll                         RS 90/-				  114
+                 5)Veg Manchurian                      RS 140/-				  115
+
+
+                                             (2) ORCHID HOUSE
+
+
+
+                                 (3) Chinese corner
+
+                 1)Mix Veg Manchurian                   RS 130/-			  131
+                 2)Veg Spring Roll                      RS 100/-			  132
+                 3)Veg Paneer Momos                     RS 90/-				  133
+                 4)Hakka Noodles                        RS 150/-			  134
+                 5)Cheese Chowmien                      RS 140/-			  135
+
+
+
+                                              (3) RIVER STONE COTTAGE
+
+
+
+                                 (3) Chinese corner
+
+                 1)Fried Momos                          RS 80/-				  151
+                 2)Veg Noodles                          RS 120/-			  152
+                 3)Singapuri Noodles                    RS 140/-			  153
+                 4)Special Manchurian                   RS 140/-			  154
+                 5)Veg Spring Roll                      RS 90/-				  155
+
+
+
+
+                                              (4) WALK IN WOODS
+
+
+
+                                 (3) Chinese corner
+
+                 1)Mix Veg Noodles                      RS 120/-			  171
+                 2)Chinese Special Manchurian           RS 100/-			  172
+                 3)Chilly Potato                        RS 110/-			  173
+                 4)Fried Spring Roll                    RS 120/-			  174
+                 5)Veg Kingdom Momos                    RS 100/-			  175
+

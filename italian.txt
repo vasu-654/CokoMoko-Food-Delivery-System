@@ -1,0 +1,57 @@
+ RESTAURANT ARE :						CUISINES ARE :
+(1) MANCHOW							(1)  North Indian
+(2) ORCHID HOUSE						(2) South indian
+(3) RIVER STONE COTTAGE						(3) Chinese corner
+(4) WALK IN WOODS						(4) Italian
+
+
+                                         (1) MANCHOW
+
+
+
+                                 (4)  Italian
+
+                 1)Red Sauce Pasta                     RS 130/-
+                 2)White Sauce Pasta                   RS 150/-
+                 3)Lasagna                             RS 310/-
+                 4)Manchow Special Pizza               RS 310/-
+                 5)Continental Soup                    RS 230/-
+
+
+                                           (2) ORCHID HOUSE
+
+
+
+                                 (4)  Italian
+
+                 1)Continental Soup                     RS 310/-
+                 2)Orchid Special Pizza                 RS 510/-
+                 3)Veg Lasagna                          RS 350/-
+                 4)Cheeze Pasta                         RS 180/-
+                 5)Veg Soup                             RS 160/-
+
+
+
+                                            (3) RIVER STONE COTTAGE
+
+
+
+                 1)Manchurian Soup                      RS 300/-
+                 2)Italian Special Pasta                RS 130/-
+                 3)White Sauce Pasta                    RS 150/-
+                 4)Tomato Soup                          RS 230/-
+                 5)Mix Veg Pizza                        RS 310/-
+
+
+
+                                            (4) WALK IN WOODS
+
+
+
+                                 (4)  Italian
+
+                 1)White Sauce Pasta                    RS 150/-
+                 2)Lnug Fung Soup                       RS 200/-
+                 3)Tomato Pasta                         RS 100/-
+                 4)Onion Pizza                          RS 280/-
+                 5)Penne Alfrendo Pasta                 RS 220/-
